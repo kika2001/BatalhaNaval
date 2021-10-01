@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f74ae2e3-ba0d-40fd-9304-d5c16da6bd5e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../BatalhaNavalLogica.excalidraw" beforeDir="false" afterPath="$PROJECT_DIR$/../BatalhaNavalLogica.excalidraw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BatalhaNavalServer/.vs/BatalhaNavalServer/DesignTimeBuild/.dtbcache.v2" beforeDir="false" afterPath="$PROJECT_DIR$/../BatalhaNavalServer/.vs/BatalhaNavalServer/DesignTimeBuild/.dtbcache.v2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BatalhaNavalServer/.vs/BatalhaNavalServer/v16/.suo" beforeDir="false" afterPath="$PROJECT_DIR$/../BatalhaNavalServer/.vs/BatalhaNavalServer/v16/.suo" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BatalhaNavalServer/BatalhaNavalServer/Protocol_BN.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../BatalhaNavalServer/BatalhaNavalServer/Protocol_BN.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BatalhaNavalServer/BatalhaNavalServer/bin/Debug/netcoreapp3.1/BatalhaNavalServer.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../BatalhaNavalServer/BatalhaNavalServer/bin/Debug/netcoreapp3.1/BatalhaNavalServer.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BatalhaNavalServer/BatalhaNavalServer/bin/Debug/netcoreapp3.1/BatalhaNavalServer.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../BatalhaNavalServer/BatalhaNavalServer/bin/Debug/netcoreapp3.1/BatalhaNavalServer.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BatalhaNavalServer/BatalhaNavalServer/obj/BatalhaNavalServer.csproj.nuget.dgspec.json" beforeDir="false" afterPath="$PROJECT_DIR$/../BatalhaNavalServer/BatalhaNavalServer/obj/BatalhaNavalServer.csproj.nuget.dgspec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BatalhaNavalServer/BatalhaNavalServer/obj/Debug/netcoreapp3.1/BatalhaNavalServer.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../BatalhaNavalServer/BatalhaNavalServer/obj/Debug/netcoreapp3.1/BatalhaNavalServer.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BatalhaNavalServer/BatalhaNavalServer/obj/Debug/netcoreapp3.1/BatalhaNavalServer.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../BatalhaNavalServer/BatalhaNavalServer/obj/Debug/netcoreapp3.1/BatalhaNavalServer.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BatalhaNavalServer/BatalhaNavalServer/obj/Debug/netcoreapp3.1/BatalhaNavalServer.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../BatalhaNavalServer/BatalhaNavalServer/obj/Debug/netcoreapp3.1/BatalhaNavalServer.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BatalhaNavalServer/BatalhaNavalServer/obj/Debug/netcoreapp3.1/BatalhaNavalServer.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../BatalhaNavalServer/BatalhaNavalServer/obj/Debug/netcoreapp3.1/BatalhaNavalServer.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BatalhaNavalServer/BatalhaNavalServer/obj/Debug/netcoreapp3.1/BatalhaNavalServer.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../BatalhaNavalServer/BatalhaNavalServer/obj/Debug/netcoreapp3.1/BatalhaNavalServer.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BatalhaNavalServer/BatalhaNavalServer/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/../BatalhaNavalServer/BatalhaNavalServer/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BatalhaNavalServer/BatalhaNavalServer/obj/project.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../BatalhaNavalServer/BatalhaNavalServer/obj/project.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BatalhaNavalUnityClient/.idea/.idea.BatalhaNavalUnityClient/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BatalhaNavalUnityClient/.idea/.idea.BatalhaNavalUnityClient/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BatalhaNavalUnityClient/.idea/.idea.BatalhaNavalUnityClient/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BatalhaNavalUnityClient/.idea/.idea.BatalhaNavalUnityClient/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BatalhaNavalUnityClient/.idea/.idea.BatalhaNavalUnityClient/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../BatalhaNavalUnityClient/.idea/.idea.BatalhaNavalUnityClient/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Assembly-CSharp.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Assets/Client.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Assets/Client.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Assets/Protocol/Protocol_BN.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Assets/Protocol/Protocol_BN.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Assets/Scenes/Game.unity" beforeDir="false" afterPath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Assets/Scenes/Game.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Assets/Scenes/Game.unity.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Assets/Scenes/Game.unity.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/ArtifactDB" beforeDir="false" afterPath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/ArtifactDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/ArtifactDB-lock" beforeDir="false" afterPath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/ArtifactDB-lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/Artifacts/07/079d1008395ca797a831fa0a583c9f15" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/Artifacts/35/3581757db6e5e49bb816221412b7eafe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/Artifacts/4e/4e5e66c46f0c2cf14fc6b55ebb349053" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/Artifacts/5e/5e3b92099b888a07906e667962794557" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/Artifacts/6d/6d32d79f6a467478393400760f2baa6d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/Artifacts/79/790337f865d85a15d01cf67da87b3190" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/Artifacts/89/89f636bd07ef5bae4261665fbfb571e4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/Artifacts/b2/b2b53061551cc5b3d5631117a3ab18f7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/Artifacts/cd/cd51f8a10aa25cf150a15aed0c6fe4c0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/Artifacts/ea/ea70373375247d474fcc9a0b3fa7b122" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/Artifacts/ed/ed8934a9814ab143a24e7f1034be3256" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/CurrentLayout-default.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/CurrentLayout-default.dwlt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/EditorUserBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/EditorUserBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/InspectorExpandedItems.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/InspectorExpandedItems.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/LastSceneManagerSetup.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/LastSceneManagerSetup.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/SceneVisibilityState.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/SceneVisibilityState.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/ScriptAssemblies/Assembly-CSharp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/ScriptAssemblies/Assembly-CSharp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/ScriptAssemblies/Unity.CollabProxy.Editor.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/ScriptAssemblies/Unity.CollabProxy.Editor.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/ScriptAssemblies/Unity.RenderPipeline.Universal.ShaderLibrary.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/ScriptAssemblies/Unity.RenderPipeline.Universal.ShaderLibrary.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Editor.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Editor.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Runtime.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Runtime.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Runtime.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Runtime.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/ScriptAssemblies/Unity.RenderPipelines.Core.ShaderLibrary.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/ScriptAssemblies/Unity.RenderPipelines.Core.ShaderLibrary.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/ScriptAssemblies/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/ScriptAssemblies/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Editor.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Editor.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Runtime.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Runtime.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Runtime.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Runtime.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Shaders.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Shaders.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/ScriptAssemblies/Unity.Rider.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/ScriptAssemblies/Unity.Rider.Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/ScriptAssemblies/Unity.Rider.Editor.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/ScriptAssemblies/Unity.Rider.Editor.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/ScriptAssemblies/Unity.ShaderGraph.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/ScriptAssemblies/Unity.ShaderGraph.Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/ScriptAssemblies/Unity.ShaderGraph.Editor.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/ScriptAssemblies/Unity.ShaderGraph.Editor.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/ScriptAssemblies/Unity.ShaderGraph.Utilities.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/ScriptAssemblies/Unity.ShaderGraph.Utilities.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/ScriptAssemblies/Unity.ShaderGraph.Utilities.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/ScriptAssemblies/Unity.ShaderGraph.Utilities.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/ScriptAssemblies/Unity.TextMeshPro.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/ScriptAssemblies/Unity.TextMeshPro.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/ScriptAssemblies/Unity.TextMeshPro.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/ScriptAssemblies/Unity.TextMeshPro.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/ScriptAssemblies/Unity.Timeline.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/ScriptAssemblies/Unity.Timeline.Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/ScriptAssemblies/Unity.Timeline.Editor.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/ScriptAssemblies/Unity.Timeline.Editor.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/ScriptAssemblies/Unity.Timeline.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/ScriptAssemblies/Unity.Timeline.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/ScriptAssemblies/Unity.Timeline.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/ScriptAssemblies/Unity.Timeline.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/ScriptAssemblies/Unity.VSCode.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/ScriptAssemblies/Unity.VSCode.Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/ScriptAssemblies/Unity.VSCode.Editor.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/ScriptAssemblies/Unity.VSCode.Editor.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/ScriptAssemblies/UnityEditor.TestRunner.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/ScriptAssemblies/UnityEditor.TestRunner.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/ScriptAssemblies/UnityEditor.TestRunner.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/ScriptAssemblies/UnityEditor.TestRunner.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/ScriptAssemblies/UnityEditor.UI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/ScriptAssemblies/UnityEditor.UI.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/ScriptAssemblies/UnityEngine.TestRunner.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/ScriptAssemblies/UnityEngine.TestRunner.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/ScriptAssemblies/UnityEngine.TestRunner.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/ScriptAssemblies/UnityEngine.TestRunner.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/ScriptAssemblies/UnityEngine.UI.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/ScriptAssemblies/UnityEngine.UI.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/ShaderCache/EditorEncounteredVariants" beforeDir="false" afterPath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/ShaderCache/EditorEncounteredVariants" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/SourceAssetDB" beforeDir="false" afterPath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/SourceAssetDB" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/SourceAssetDB-lock" beforeDir="false" afterPath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/SourceAssetDB-lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/StateCache/Hierarchy/ce557b-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/StateCache/Hierarchy/ce557b-mainStage.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/StateCache/SceneView/af2d05-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/StateCache/SceneView/af2d05-mainStage.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/expandedItems" beforeDir="false" afterPath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/expandedItems" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/shadercompiler-UnityShaderCompiler.exe0.log" beforeDir="false" afterPath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/shadercompiler-UnityShaderCompiler.exe0.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/shadercompiler-UnityShaderCompiler.exe1.log" beforeDir="false" afterPath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/shadercompiler-UnityShaderCompiler.exe1.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/shadercompiler-UnityShaderCompiler.exe2.log" beforeDir="false" afterPath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/shadercompiler-UnityShaderCompiler.exe2.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/shadercompiler-UnityShaderCompiler.exe3.log" beforeDir="false" afterPath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/shadercompiler-UnityShaderCompiler.exe3.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/shadercompiler-UnityShaderCompiler.exe4.log" beforeDir="false" afterPath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/shadercompiler-UnityShaderCompiler.exe4.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/shadercompiler-UnityShaderCompiler.exe5.log" beforeDir="false" afterPath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Library/shadercompiler-UnityShaderCompiler.exe5.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../BatalhaNavalUnityClient/Packages/packages-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BatalhaNavalUnityClient/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../BatalhaNavalUnityClient/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BatalhaNavalUnityClient/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../BatalhaNavalUnityClient/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BatalhaNavalUnityClient/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../BatalhaNavalUnityClient/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../BatalhaNavalUnityClient/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../BatalhaNavalUnityClient/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/ServerInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/GameRoom.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/ServerInfo.cs" />
+        <option value="$PROJECT_DIR$/Assets/ServerListener.cs" />
+        <option value="$PROJECT_DIR$/Assets/Protocol/Protocol_BN.cs" />
+        <option value="$PROJECT_DIR$/Assets/Server.cs" />
+        <option value="$PROJECT_DIR$/Assets/GameRoom.cs" />
+        <option value="$PROJECT_DIR$/Assets/ChatServer/ChatServer.cs" />
+        <option value="$PROJECT_DIR$/Assets/ChatServer/ChatServerListener.cs" />
+        <option value="$PROJECT_DIR$/Assets/ChatServer/ChatServerProcessor.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1rtMGyKtsRvI1m8XVsG98mBf7wG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DebuggerViewTab_PTCS_FirstProportionKey" value="0.3497831" />
+    <property name="DebuggerViewTab_PTCS_LastProportionKey" value="0.29989153" />
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Standalone Player" type="RunUnityExe" factoryName="Unity Executable">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/builds/1\BatalhaNavalServerUnity.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="H:\Universidade\Unity\REJM\BatalhaNaval\BatalhaNaval\BatalhaNavalServerUnity\builds\1" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="selectedOptions">
+        <set />
+      </option>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f74ae2e3-ba0d-40fd-9304-d5c16da6bd5e" name="Default Changelist" comment="" />
+      <created>1619790840695</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619790840695</updated>
+      <workItem from="1619790846380" duration="11233000" />
+      <workItem from="1619803981085" duration="791000" />
+      <workItem from="1619957106439" duration="7715000" />
+      <workItem from="1619993011748" duration="1218000" />
+      <workItem from="1620065995671" duration="6580000" />
+      <workItem from="1620323282364" duration="2385000" />
+      <workItem from="1620602154804" duration="604000" />
+      <workItem from="1620775650583" duration="3920000" />
+      <workItem from="1620820150072" duration="5508000" />
+      <workItem from="1620848457131" duration="10788000" />
+      <workItem from="1622646646464" duration="52000" />
+      <workItem from="1623252265499" duration="2179000" />
+      <workItem from="1623397669830" duration="1788000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1875" height="73" key="GridCell.Tab.0.bottom" timestamp="1620083646923">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="374" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1620067176410" />
+    <state width="1875" height="73" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1620083646923" />
+    <state width="1875" height="73" key="GridCell.Tab.0.center" timestamp="1620083646923">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="374" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1620067176410" />
+    <state width="1875" height="73" key="GridCell.Tab.0.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1620083646923" />
+    <state width="1875" height="73" key="GridCell.Tab.0.left" timestamp="1620083646923">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="374" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1620067176409" />
+    <state width="1875" height="73" key="GridCell.Tab.0.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1620083646923" />
+    <state width="1875" height="73" key="GridCell.Tab.0.right" timestamp="1620083646923">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="374" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1620067176410" />
+    <state width="1875" height="73" key="GridCell.Tab.0.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1620083646923" />
+    <state width="1875" height="73" key="GridCell.Tab.1.bottom" timestamp="1620083646923">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="374" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1620067186613" />
+    <state width="1875" height="73" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1620083646923" />
+    <state width="1875" height="73" key="GridCell.Tab.1.center" timestamp="1620083646923">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="374" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1620067186612" />
+    <state width="1875" height="73" key="GridCell.Tab.1.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1620083646923" />
+    <state width="1875" height="73" key="GridCell.Tab.1.left" timestamp="1620083646923">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="374" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1620067186612" />
+    <state width="1875" height="73" key="GridCell.Tab.1.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1620083646923" />
+    <state width="1875" height="73" key="GridCell.Tab.1.right" timestamp="1620083646923">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="374" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1620067186612" />
+    <state width="1875" height="73" key="GridCell.Tab.1.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1620083646923" />
+    <state width="1875" height="73" key="GridCell.Tab.2.bottom" timestamp="1620083646924">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="374" key="GridCell.Tab.2.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1619797869340" />
+    <state width="1875" height="73" key="GridCell.Tab.2.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1620083646924" />
+    <state width="1875" height="73" key="GridCell.Tab.2.center" timestamp="1620083646924">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="374" key="GridCell.Tab.2.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1619797869340" />
+    <state width="1875" height="73" key="GridCell.Tab.2.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1620083646924" />
+    <state width="1875" height="73" key="GridCell.Tab.2.left" timestamp="1620083646924">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="374" key="GridCell.Tab.2.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1619797869340" />
+    <state width="1875" height="73" key="GridCell.Tab.2.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1620083646924" />
+    <state width="1875" height="73" key="GridCell.Tab.2.right" timestamp="1620083646924">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="374" key="GridCell.Tab.2.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1619797869340" />
+    <state width="1875" height="73" key="GridCell.Tab.2.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1620083646924" />
+    <state width="1875" height="73" key="GridCell.Tab.3.bottom" timestamp="1620083646924">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="374" key="GridCell.Tab.3.bottom/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1619797869340" />
+    <state width="1875" height="73" key="GridCell.Tab.3.bottom/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1620083646924" />
+    <state width="1875" height="73" key="GridCell.Tab.3.center" timestamp="1620083646924">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="374" key="GridCell.Tab.3.center/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1619797869340" />
+    <state width="1875" height="73" key="GridCell.Tab.3.center/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1620083646924" />
+    <state width="1875" height="73" key="GridCell.Tab.3.left" timestamp="1620083646924">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="374" key="GridCell.Tab.3.left/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1619797869340" />
+    <state width="1875" height="73" key="GridCell.Tab.3.left/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1620083646924" />
+    <state width="1875" height="73" key="GridCell.Tab.3.right" timestamp="1620083646924">
+      <screen x="1920" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1875" height="374" key="GridCell.Tab.3.right/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1619797869340" />
+    <state width="1875" height="73" key="GridCell.Tab.3.right/0.0.1920.1040/1920.0.1920.1040@1920.0.1920.1040" timestamp="1620083646924" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Assets/ServerInfo.cs</url>
+          <line>38</line>
+          <properties documentPath="H:\Universidade\Unity\REJM\BatalhaNaval\BatalhaNaval\BatalhaNavalServerUnity\Assets\ServerInfo.cs" initialLine="38">
+            <startOffsets>
+              <option value="1052" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1053" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

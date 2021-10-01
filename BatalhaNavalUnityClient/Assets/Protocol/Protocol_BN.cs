@@ -8,42 +8,33 @@ namespace ProtocolBatalhaNaval
 {
     public class Protocol_BN
     {
-        public BN_Action action = new BN_Action();
-        public BN_Information info = new BN_Information();
+        public BN_Action action { get; set; }
+        public BN_Information info { get; set; }
+        public override string ToString()
+        {
+            return $"Actions: player-{action.player} , shot_x-{action.shot_x} , shot_y-{action.shot_y} , hitInfo-{action.hitInfo} |\n" +
+                   $"Information: tag-{info.tag} , message-{info.message}";
+        }
     }
     public struct BN_Action : INetSerializable
     {
-        public int player;
+        public int roomID { get; set; }
+        public int player{ get; set; }
         public int shot_x { get; set; }
         public int shot_y { get; set; }
-        //public HitInfo hitInfo;
-        public byte hitInfo;
+        public HitInfo hitInfo{ get; set; }
         public BN_Action(int p,int x,int y)
         {
+            roomID = 0;
             player = p;
             shot_x = x;
             shot_y = y;
-            //hitInfo = HitInfo.Empty;
-            hitInfo = 0x01;
+            hitInfo = HitInfo.Empty;
         }
-        /*
+        
         public bool ReturnHit(HitInfo h)
         {
-            if (h!= HitInfo.Empty)
-            {
-                hitInfo = h;
-                return true;
-            }
-            else
-            {
-                return false;
-            }
-        }
-        */
-        
-        public bool ReturnHit(byte h)
-        {
-            if (h!=0x01)
+            if (h!=HitInfo.Empty)
             {
                 hitInfo = h;
                 return true;
@@ -56,33 +47,29 @@ namespace ProtocolBatalhaNaval
         
         public void Serialize(NetDataWriter writer)
         {
+            writer.Put(roomID);
             writer.Put(player);
             writer.Put(shot_x);
             writer.Put(shot_y);
-            writer.Put(hitInfo);
+            writer.Put((int)hitInfo);
         }
 
         public void Deserialize(NetDataReader reader)
         {
+            roomID = reader.GetInt();
             player = reader.GetInt();
             shot_x = reader.GetInt();
             shot_y = reader.GetInt();
-            //hitInfo = (HitInfo)reader.GetInt();
-            hitInfo = reader.GetByte();
+            hitInfo = (HitInfo)reader.GetInt();
         }
     }
     public struct BN_Information : INetSerializable
     {
-        public byte tag;
-        public string message;
-
-        /*
-        public BN_Information(byte t, string m)
-        {
-            tag = t;
-            message = m;
-        }
-        */
+        /// <summary>
+        /// 0x01-JoinQueue | 0x02-Leave | 0x03 - GameStart | 0x04 - FirstPlay | 0x05 - Win | 0x06- Ready | 0x07 Attack
+        /// </summary>
+        public byte tag{ get; set; }
+        public string message{ get; set; }
 
         public void Serialize(NetDataWriter writer)
         {
@@ -98,9 +85,9 @@ namespace ProtocolBatalhaNaval
     }
     public enum HitInfo
     {
-        Empty = 0x01,
-        Water =0x02,
-        Ship = 0x03,
-        DestroyedPart = 0x04
+        Empty,
+        Water,
+        Ship,
+        DestroyedPart,
     }
 }
